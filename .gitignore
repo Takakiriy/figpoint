@@ -1,0 +1,14 @@
+node_modules
+**/.DS_Store
+
+_output
+**/*.backup
+**/_checking
+**/_changing
+**/_tmp
+**/*_changing.yml
+**/*_changing.yaml
+bin/chmod+x.command
+*.log
+/.env
+!.env.project

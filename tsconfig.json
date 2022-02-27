@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "strict": true,
+        "target": "es2015",
+        "module": "es2015",
+        "lib": [ "es2015" ],
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "inlineSourceMap": true,
+        "inlineSources": true,
+        "outDir": "build",
+        "allowSyntheticDefaultImports": true
+    }
+}
